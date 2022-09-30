@@ -1,5 +1,4 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
-U1,xiao-ble-thtbatfach,1,SeeeduinoXIAO,
 SW9,RotaryEncoder_EC11,1,RotaryEncoder,
 D1,LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,1,SK6812MINI,
 SW6,einmalalles,1,SW_Push,
@@ -12,6 +11,7 @@ JP10,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,1,Jumper_3_Open
 JP1,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,1,Jumper_3_Open,
 SW2,einmalalles,1,SW_Push,
 JP3,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,1,Jumper_3_Open,
+U1,xiao-ble-thtbatfach,1,SeeeduinoXIAO,
 SW4,einmalalles,1,SW_Push,
 JP5,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels,1,Jumper_3_Open,
 SW5,einmalalles,1,SW_Push,
